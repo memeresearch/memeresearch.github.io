@@ -2,7 +2,22 @@
 
 - last: Danish
   first: Joshua
-  role: Head, Associate Professor
-  status: Current Lab Member
+  role: PI
   url: https://www.joshuadanish.com
   affiliation: Indiana University Bloomington
+  status: Members
+- last: Duncan
+  first: Ravit
+  role: Co-PI
+  affiliation: Rutgers University
+  status: Members
+- last: Hmelo-Silver
+  first: Cindy
+  role: Co-PI
+  affiliation: Indiana University Bloomington
+  status: Members
+- last: Chinn
+  first: Clark
+  role: Co-PI
+  affiliation: Indiana University Bloomington
+  status: Members
