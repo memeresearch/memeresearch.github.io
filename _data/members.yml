@@ -6,18 +6,57 @@
   url: https://www.joshuadanish.com
   affiliation: Indiana University Bloomington
   status: Member
+  
 - last: Duncan
   first: Ravit
   role: Co-PI
   affiliation: Rutgers University
   status: Member
+  
 - last: Hmelo-Silver
   first: Cindy
   role: Co-PI
   affiliation: Indiana University Bloomington
   status: Member
+  
 - last: Chinn
   first: Clark
   role: Co-PI
+  affiliation: Rutgers University
+  status: Member
+
+- last: Ryan
+  first: Zach
+  role: Graduate Student Researcher
   affiliation: Indiana University Bloomington
   status: Member
+  
+- last: Murphy
+  first: Danielle
+  role: Graduate Student Researcher
+  affiliation: Rutgers University
+  status: Member
+  
+ - last: Stiso
+  first: Christina
+  role: Graduate Student Researcher
+  affiliation: Indiana University Bloomington
+  status: Member
+  
+ - last: Vickery
+  first: Morgan
+  role: Graduate Student Researcher
+  affiliation: Indiana University Bloomington
+  status: Member
+  
+ - last: Zhou
+  first: Jinzhi
+  role: Graduate Student Researcher
+  affiliation: Indiana University Bloomington
+  status: Member
+  
+- last: Moreland
+  first: Mimi
+  role: Graduate Student Researcher
+  affiliation: Indiana University Bloomington
+  status: Former Member
