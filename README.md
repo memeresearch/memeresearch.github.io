@@ -1,1 +1,0 @@
-# memeresearch.github.io
