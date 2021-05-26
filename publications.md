@@ -5,12 +5,10 @@ permalink: /publications/
 
 ## MEME Publications
 
-{% assign items_grouped = site.data.publications | group_by: 'project' | sort: 'date' | reverse %}
-{% for group in items_grouped %}
-<h3>{{group.name}}</h3>
-<ul>
-{% for item in group.items %}
-<li>{{item.citation}}</li>
-{% endfor %}
+{% assign groups = site.data.publications | group_by: "project" | sort: "value" %}
+{% for group in groups %}
+<h3>{{ group.name }}</h3><ul>
+{% assign itemsSorted = group.items | sort: "date" | reverse %}
+{% for item in itemsSorted %}<li>{{item.citation}}</li>{% endfor %}
 </ul>
 {% endfor %}
