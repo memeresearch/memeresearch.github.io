@@ -11,6 +11,6 @@ We have been exploring students' use of MEME as part of the Scaffolding Explanat
 
 Here is a screen capture of the MEME interface:
 
-[![The MEME Interface](/assets/img/meme_interface.png)](/assets/img/meme_interface.png)
+<a href="/assets/img/meme_interface.png" target="_blank">[The MEME Interface](/assets/img/meme_interface.png)]</a>
 
 ... Add details here, and an image.
