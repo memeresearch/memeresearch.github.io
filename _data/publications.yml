@@ -3,8 +3,8 @@
   project: 'SEEDS'
   type: 'Conference Presentations'
   date: '2021'
-  link: /assets/pdf/GalleryWalk_ISIS2021.pdf
-  linklabel: poster
+  link: '/assets/pdf/GalleryWalk_ISIS2021.pdf'
+  linklabel: 'poster'
   
 - citation: 'Murphy, D., Duncan, R., Chinn, C., Danish, J., Hmelo-Silver, C., Ryan, Z., . . . Stiso, C. (2021). Students’ Justifications for Epistemic Criteria for Good Scientific Models. Paper presented at the 2021 Annual Meeting of the International Society of the Learning Sciences (ISLS).'
   project: 'SEEDS'
