@@ -3,7 +3,7 @@ layout: default
 permalink: /publications/
 ---
 
-## MEME Publications
+## MEME and SEEDS Publications
 
 {% assign groups = site.data.publications | group_by: "project" | sort: "value" %}
 {% for group in groups %}
