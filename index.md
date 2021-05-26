@@ -13,4 +13,8 @@ Here is a screen capture of the MEME interface:
 
 <a href="/assets/img/meme_interface.png" target="_blank"><img src="/assets/img/meme_interface.png" alt="MEME Interface"></a>
 
-... Add details.
+<br>
+<hr>
+<br>
+![NSF, CRLT at IU, Rutgers](/assets/img/support.png)
+<small>This work was supported by the National Science Foundation grants DRL-1761019 and DRL-1760909, the IU Center for Research on Learning and Technology (CRLT) and Rutgers University. Opinions presented do not necessarily represent those of those supporting institutions.<small>
