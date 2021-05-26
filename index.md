@@ -3,10 +3,10 @@ layout: default
 permalink: /
 ---
 
-### About MEME
+### About MEME and SEEDS
 
-Some pithy stuff here.
+The Modeling and Evidence Mapping Environment (MEME) was developed to help users build qualitative models of scientific phenomena, and revise those models based on evidence.
 
-### Recent publications
+We have been exploring students' use of MEME as part of the Scaffolding Explanations and Epistemic Development for Systems (SEEDS) research project. 
 
-A loop
+... Add details here, and an image.
