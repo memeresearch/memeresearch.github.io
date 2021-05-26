@@ -1,1 +1,1 @@
-# memeresearch.girhub.io
+# memeresearch.github.io
