@@ -5,7 +5,7 @@ permalink: /resources/
 
 ## MEME Resources
 
-MEME is open source! If you want to contribute or download the code is here: https://gitlab.com/inq-seeds/boilerplate.
+MEME is open source! If you want to contribute or download the code is here: <a href="https://gitlab.com/inq-seeds/boilerplate" target="_blank">https://gitlab.com/inq-seeds/boilerplate</a>.
 
 Coming soon: downloadable version.
 
