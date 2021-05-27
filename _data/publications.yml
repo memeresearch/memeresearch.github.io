@@ -1,11 +1,4 @@
   
-- citation: 'Danish, J., Vickery, M., Duncan, R., Ryan, Z., Stiso, C., Zhou, J., . . . Chinn, C. (2021). Scientific Model Evaluation During a Gallery Walk. Paper presented at the 2021 Annual Meeting of the International Society of the Learning Sciences (ISLS).'
-  project: 'SEEDS'
-  type: 'Conference Presentations'
-  date: '2021'
-  link: '/assets/pdf/GalleryWalk_ISIS2021.pdf'
-  linklabel: 'poster'
-  
 - citation: 'Murphy, D., Duncan, R., Chinn, C., Danish, J., Hmelo-Silver, C., Ryan, Z., . . . Stiso, C. (2021). Students’ Justifications for Epistemic Criteria for Good Scientific Models. Paper presented at the 2021 Annual Meeting of the International Society of the Learning Sciences (ISLS).'
   project: 'SEEDS'
   type: 'Conference Presentations'
@@ -25,6 +18,13 @@
   project: 'SEEDS'
   type: 'Conference Presentations'
   date: '2021'
+  
+- citation: 'Danish, J., Vickery, M., Duncan, R., Ryan, Z., Stiso, C., Zhou, J., . . . Chinn, C. (2021). Scientific Model Evaluation During a Gallery Walk. Paper presented at the 2021 Annual Meeting of the International Society of the Learning Sciences (ISLS).'
+  project: 'SEEDS'
+  type: 'Conference Presentations'
+  date: '2021'
+  link: '/assets/pdf/GalleryWalk_ISIS2021.pdf'
+  linklabel: 'poster'
 
 - citation: 'Moreland, M., Vickery, M., Ryan, Z., Murphy, D., Av-Shalom, N., Hmelo-Silver, C. E., Danish, J., Duncan, R., & Chinn, C. (2020). Representing Modeling Relationships in Systems: Student Use of Arrows. In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, Volume 3 (pp. 1773-1774). Nashville, Tennessee: International Society of the Learning Sciences.'
   project: 'SEEDS'
