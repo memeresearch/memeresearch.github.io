@@ -15,6 +15,10 @@ MEME is modeled after a number of previously succesful approaches to helping stu
 3. **Integrated feedback:** To support students in discussing, critiquing, and revising their models, MEME includes a commenting feature that allows instructors and peers to offer feedback on each model. In addition, these comments are organized around collective criteria that users can develop around what  makes for a good model (Murphy et al., 2021).
  
 We have been exploring students' use of MEME as part of the NSF-funded Scaffolding Explanations and Epistemic Development for Systems (SEEDS) research project. Our goal in this project is to explore how students think about different kinds of evidence, and how they  use evidence to evaluate or refine their scientific models—key practices for engaging in constructing scientific knowledge.
+
+### Context of Use
+Meme was originally developed for use in 5th grade science classrooms where students used it to explore eutrophication (Danish et al., 2021). You can see more about this in our resources page. However, we have also used it in grduate seminars, undergraduate courses, and to support our design efforts as we attempt to develop Design Based Research (DBR) conjectures and plan our next study. In short, we think it can be helpful in any context where it is useful to collaboratively develop a model, particularly if you wish to link that model to evidence or other resources.
+
 <br>
 <hr>
 <br>
