@@ -14,7 +14,7 @@ MEME is open source! If you want to contribute or download and run the code, it 
 **Coming soon**: sample curriculum materials for the eutrophication unit we developed using MEME.
 
 ### Sample Models
-Here are some sample models with comments open to show how peers / the teacher might have responded to them.
+Here are some sample models with comments open to show how peers / the teacher might have responded to them. Click on each one to see a larger version.
 
 <a href="/assets/img/Student%20model%201.png" target="_blank"><img src="/assets/img/Student%20model%201.png" alt="Sample student model in MEME" width=400></a>
 <a href="/assets/img/Student%20model%202.png" target="_blank"><img src="/assets/img/Student%20model%202.png" alt="Sample student model in MEME" width=400></a>
