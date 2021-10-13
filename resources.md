@@ -14,7 +14,7 @@ MEME is open source! If you want to contribute or download and run the code, it 
 
 **Citation**: Please cite the MEME software as The Modeling and Evidence Mapping Environment
 (MEME) Software (2019) Danish, Duncan, Hmelo-Silver, Chinn, Ryan, Av-Shalom,
-Moreland, Vickery, Murphy, Stiso.
+Moreland, Vickery, Murphy & Stiso.
 
 ### MEME Curriculum Materials
 **Coming soon**: sample curriculum materials for the eutrophication unit we developed using MEME.
