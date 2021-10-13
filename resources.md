@@ -12,6 +12,10 @@ MEME is open source! If you want to contribute or download and run the code, it 
 
 **Coming soon**: a downloadable macintosh version of the software. If you would like to access this now, contact <a href="mailto:jdanish@indiana.edu?subject=MEME">jdanish@indiana.edu</a>.
 
+**Citation**: Please cite the MEME software as The Modeling and Evidence Mapping Environment
+(MEME) Software (2019) Danish, Duncan, Hmelo-Silver, Chinn, Ryan, Av-Shalom,
+Moreland, Vickery, Murphy, Stiso.
+
 ### MEME Curriculum Materials
 **Coming soon**: sample curriculum materials for the eutrophication unit we developed using MEME.
 
