@@ -17,7 +17,8 @@ MEME is open source! If you want to contribute or download and run the code, it 
 Moreland, Vickery, Murphy & Stiso.
 
 ### MEME Curriculum Materials
-You can see the Year 4 classroom implementation materials here on GitHub: <a href="https://github.com/memeresearch/memeresearch.github.io/tree/main/sample_resources/Year%204%20Implementation">https://github.com/memeresearch/memeresearch.github.io/tree/main/sample_resources/Year%204%20Implementation</a>
+Sample materials can be found here based on year:
+1. <a href="https://github.com/memeresearch/memeresearch.github.io/tree/main/sample_resources/Year%204%20Implementation">Year 4</a>
 
 ### Sample Models
 Here are some sample models with comments open to show how peers / the teacher might have responded to them. Click on each one to see a larger version.
