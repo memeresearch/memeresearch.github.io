@@ -18,8 +18,8 @@ Moreland, Vickery, Murphy & Stiso.
 
 ### MEME Curriculum Materials
 Sample materials can be found here based on year:
-1. <a href="https://github.com/memeresearch/memeresearch.github.io/tree/main/sample_resources/Year%201%20Implementation">Year 1: This was our tutorial study to test out our initial design ideas. If you are interested in these materials please contact us.</a>
-2. Year 2 Classroom Implementation: Coming soon.
+1. Year 1: This was our tutorial study to test out our initial design ideas. If you are interested in these materials please contact us.
+2. <a href="https://github.com/memeresearch/memeresearch.github.io/tree/main/sample_resources/Year%201%20Implementation">Year 2 Classroom Implementation</a>
 3. Year 3 After School Cub: Coming soon.
 4. <a href="https://github.com/memeresearch/memeresearch.github.io/tree/main/sample_resources/Year%204%20Implementation">Year 4 Classroom Implementation</a>
 
