@@ -8,7 +8,7 @@
   type: 'Conference Presentations'
   date: '2021'
   links:
-    - url: '/assets/pdf/Murphy_at_al_2021.pdf'
+    - url: 'http://modelingandevidence.org/assets/pdf/Murphy_at_al_2021.pdf'
       linklabel: 'paper'
 
 - citation: 'Ryan, Z., Danish, J., & Hmelo-Silver, C. (2021). <strong>Understanding Students’ Representations of Mechanism through Modeling Complex Aquatic Ecosystems</strong>. Paper presented at the 2021 Annual Meeting of the International Society of the Learning Sciences (ISLS).'
@@ -16,7 +16,7 @@
   type: 'Conference Presentations'
   date: '2021'  
   links:
-    - url: '/assets/pdf/Ryan_et_al_2021.pdf'
+    - url: 'http://modelingandevidence.org/assets/pdf/Ryan_et_al_2021.pdf'
       linklabel: 'paper'
   
 - citation: 'Danish, J., Vickery, M., Duncan, R., Ryan, Z., Stiso, C., Zhou, J. Moreland, M., Stiso, C., Hmelo-Silver, C., Chinn, C. (2021). <strong>Scientific Model Evaluation During a Gallery Walk</strong>. Paper presented at the Annual Meeting of the American Educational Research Association, Online.'
@@ -34,9 +34,9 @@
   type: 'Conference Presentations'
   date: '2021'
   links:
-    - url: '/assets/pdf/Danish_et_al_2021.pdf'
+    - url: 'http://modelingandevidence.org/assets/pdf/Danish_et_al_2021.pdf'
       linklabel: 'poster abstract'
-    - url: '/assets/pdf/GalleryWalk_ISIS2021.pdf'
+    - url: 'http://modelingandevidence.org/assets/pdf/GalleryWalk_ISIS2021.pdf'
       linklabel: 'slides'
       
 - citation: 'Moreland, M., Vickery, M., Ryan, Z., Murphy, D., Av-Shalom, N., Hmelo-Silver, C. E., Danish, J., Duncan, R., & Chinn, C. (2020). <strong>Representing Modeling Relationships in Systems: Student Use of Arrows</strong>. In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, Volume 3 (pp. 1773-1774). Nashville, Tennessee: International Society of the Learning Sciences.'
