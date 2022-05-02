@@ -4,8 +4,9 @@ permalink: /publications/
 ---
 
 ## MEME and SEEDS Publications
+
 {% comment %}
-  Note, using projects so that I can re-use this code across RAPT Lab websites 
+Get the set twice: once to do the year groups, then again to make the actual list inside the years. Since it is a sub-set it grabs the items for just that year.
 {% endcomment %}
 
 
