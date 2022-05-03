@@ -5,19 +5,15 @@ permalink: /publications/
 
 ## MEME and SEEDS Publications
 
-{% comment %}
-Get the set twice: once to do the year groups, then again to make the actual list inside the years. Since it is a sub-set it grabs the items for just that year.
-{% endcomment %}
+{% assign thisProject = "SEEDS" %}
 
-
-{% assign citations = site.data.publications |  sort: "date" | reverse | group_by: "date"  %}
-
-
+{% assign citations = site.data.publications |  sort: "date" | reverse | group_by: "date" %}
 {% for citation in citations %}
-<h3>{{ citation.name }}</h3>
+{% assign itemsSorted = citation.items | where: "project",thisProject %}
 
+{% if itemsSorted.size > 0 %}
+<h3>{{ citation.name }}</h3>
   <ul class="pubs">
-  {% assign itemsSorted = citation.items | sort: "date" | reverse %}
   {% for item in itemsSorted %}<li>{{item.citation}}        
     {% for link in item.links %}
       {% if link.url %}<a href="{{link.url}}" target="_blank">[{{link.linklabel}}]</a>
@@ -26,5 +22,7 @@ Get the set twice: once to do the year groups, then again to make the actual lis
     </li>
   {% endfor %}
   </ul>
+  {% endif %}
 {% endfor %}
+
 
