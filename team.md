@@ -15,5 +15,5 @@ permalink: /team/
 
 <h3>Software Development</h3>
 <ul>
-  <li>The MEME software was developed by <a href="http://inquirium.net" target="_blank">Inquirium</a>.</li>
+  <li>The STEP software was developed by <a href="http://www.inquirium.net" target="_blank">Inquirium</a>.</li>
 </ul>
