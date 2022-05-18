@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /
+projectName: 'SEEDS'
 ---
 
 ## About MEME and SEEDS
@@ -22,4 +23,6 @@ Meme was originally developed for use in 5th grade science classrooms where stud
 <hr>
 
 ![NSF, CRLT at IU, Rutgers](/assets/img/support.png)
-<small>This work was supported by the National Science Foundation grants DRL-1761019 and DRL-1760909, the IU Center for Research on Learning and Technology (CRLT) and Rutgers University. Opinions presented do not necessarily represent those of those supporting institutions.<small>
+
+{% include project_funding.html %}
+
