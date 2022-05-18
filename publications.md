@@ -3,7 +3,7 @@ layout: default
 permalink: /publications/
 ---
 
-## MEME and SEEDS Publications
+## {% site.data.rapt_site.pubsHeader %}
 
 {% assign thisProject = site.data.rapt_site.project %}
 
