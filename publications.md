@@ -5,7 +5,7 @@ permalink: /publications/
 
 ## MEME and SEEDS Publications
 
-{% assign thisProject = "SEEDS" %}
+{% assign thisProject = site.data.rapt_site.project %}
 
 {% assign citations = site.data.publications |  sort: "date" | reverse | group_by: "date" %}
 {% for citation in citations %}
