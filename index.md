@@ -22,7 +22,7 @@ Meme was originally developed for use in 5th grade science classrooms where stud
 
 <hr>
 
-![NSF, CRLT at IU, Rutgers](/assets/img/support.png)
-
 {% include project_funding.html %}
+
+![NSF, CRLT at IU, Rutgers](/assets/img/support.png)
 
