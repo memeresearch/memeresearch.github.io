@@ -3,7 +3,7 @@ layout: default
 permalink: /publications/
 ---
 
-## {{ site.data.rapt_site.pubsHeader }}
+<h2> {{ site.data.rapt_site.pubsHeader }} </h2>
 
 {% assign thisProject = site.data.rapt_site.project %}
 
