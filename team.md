@@ -15,5 +15,5 @@ permalink: /team/
 
 <h3>Software Development</h3>
 <ul>
-  <li>The STEP software was developed by <a href="http://www.inquirium.net" target="_blank">Inquirium</a>.</li>
+  <li>The STEP software was developed by Ben Loh at <a href="http://www.inquirium.net" target="_blank">Inquirium</a> and Sri Seah (<a href="https://davidseah.com/" target="_blank">https://davidseah.com/</a>).</li>
 </ul>
