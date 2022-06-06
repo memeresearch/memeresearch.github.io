@@ -9,7 +9,7 @@ permalink: /publications/
 
 {% assign citations = site.data.publications |  sort: "date" | reverse | group_by: "date" %}
 {% for citation in citations %}
-{% assign itemsSorted = citation.items | where: "project",thisProject %}
+{% assign itemsSorted = citation.items | where: "project",thisProject | sort: "citation" %}
 
 {% if itemsSorted.size > 0 %}
 <h3>{{ citation.name }}</h3>
