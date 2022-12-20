@@ -1,11 +1,3 @@
-- citation: 'Danish, J. A., Johnson, H., Nicholas, C., Cross Francis, D., Hmelo-Silver, C. E., Park Rogers, M., . . . Enyedy, N. (2021). Situating video as context for teacher. Learning, Culture and Social Interaction, 30.'
-  project: 'RepTal'
-  type: 'Journal Article'
-  visibility: 'All'
-  date: '2021'
-  links:
-  - url: 'https://doi.org/10.1016/j.lcsi.2021.100542'
-    linklabel: 'paper'
 
 - citation: 'Vickery, M., Danish, J., Tu, X., & Zhou, M. B. G. (2021). Scientific Modeling Practices Through Perspective Taking in a Mixed Reality Embodied Learning Environment. Paper presented at the 2021 Annual Meeting of the International Society of the Learning Sciences (ISLS).'
   project: 'STEP'
@@ -862,3 +854,39 @@
   visibility: 'Project'
   type: 'Conference Proceedings'
   date: '2022'
+
+- citation: 'McClain, J., Nicholas, C., Zimmermann, K., Pierce, E., Danish, J., & Zhong, Q. (2022). Observing the Unobservable. Science and Children, 60(2).'
+  project: 'RepTal'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2022'
+  links:
+  - url: 'https://www.nsta.org/science-and-children/science-and-children-novemberdecember-2022/observing-unobservable'
+    linklabel: 'paper'
+
+- citation: 'Danish, J. A., & Ma, J. Y. (2023). Sociocultural and cognitive perspectives on learning: What is learning, for whom, and to what end? In R. J. Tierney, F. Rizvi, & K. Erkican (Eds.), International Encyclopedia of Education(Fourth Edition) (Fourth Edition) (pp. 1–11). Elsevier. https://doi.org/10.1016/B978-0-12-818630-5.14001-1'
+  project: 'Other'
+  visibility: 'All'
+  type: 'Book Chapter'
+  date: '2022'
+  links:
+  - url: 'https://www.sciencedirect.com/science/article/pii/B9780128186305140011'
+    linklabel: 'chapter'
+
+- citation: 'Pierson, A. E., Keifert, D. T., Lee, S. J., Henrie, A., Johnson, H. J., & Enyedy, N. (2022). Multiple Representations in Elementary Science: Building Shared Understanding while Leveraging Students’ Diverse Ideas and Practices. Journal of Science Teacher Education, 0(0), 1-25. https://doi.org/10.1080/1046560X.2022.2143612'
+  project: 'RepTal'
+  visibility: 'Project'
+  type: 'Journal Article'
+  date: '2022'
+  links:
+  - url: 'https://doi.org/10.1080/1046560X.2022.2143612'
+    linklabel: 'paper'
+
+- citation: 'Danish, J., Anton, G., Mathayas, N., Jen, T., Vickery, M., Lee, S., Tu, X., Cosic, L., Zhou, M., Ayalon, E., Steinberg, S., Enyedy, N., & Ryan, Z. (2022). Designing for Shifting Learning Activities. The Journal of Applied Instructional Design, 11(4). https://dx.doi.org/10.51869/114/jdabc'
+  project: 'STEP'
+  visibility: 'All'
+  type: 'Journal Article'
+  date: '2022'
+  links:
+  - url: 'https://dx.doi.org/10.51869/114/jdabc'
+    linklabel: 'paper'
