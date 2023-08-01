@@ -3,9 +3,9 @@ layout: default
 permalink: /publications/
 ---
 
-{% include filter_setup.html %}
-
 <h2> {{ site.data.rapt_site.pubsHeader }} </h2>
+
+{% include filter_setup.html %}
 
 {% assign thisProject = site.data.rapt_site.project %}
 
