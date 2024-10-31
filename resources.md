@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: /resources/
+projectName: 'SEEDS'
+
 ---
 
 ## MEME Resources

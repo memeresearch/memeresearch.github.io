@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: /publications/
+projectName: 'SEEDS'
+
 ---
 
 <h2> {{ site.data.rapt_site.pubsHeader }} </h2>
